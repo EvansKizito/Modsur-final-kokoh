@@ -3,7 +3,7 @@
 Ini adalah project akhir mata kuliah model survival dengan tema regresi Cox PH.
 
 1. `aids_clinical_trials_data.csv` merupakan file utama dalam pengerjaan project ini.
-2. `FINAL PROJECT_MODSUR (G).pdf` merupakan referensi pengerjaan project-nya (tujuan sama).
+2. `FINAL PROJECT_MODSUR (G).pdf`dan Regresi Cox Ph Kelompok G.R merupakan referensi pengerjaan project-nya (tujuan sama).
 3. Pengerjaan utamanya memakai bahasa pemrograman R.
 4. Cleaning boleh pakai Python (jika ada).
 5. Fokus tugas saya dalam tim ini adalah BAB 2 yang ada pada referensi.
